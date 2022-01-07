@@ -13,7 +13,7 @@ SET @myVar1 = 5;
 SET @myVar2 = 3;
 SET @myVar3 = 4.25;
 SET @myVar4 = '가수의 이름 =>';
-
+ 
 -- 변수에 저장된 값을 출력할 때는 SELECT @변수명; 을 사용합니다.
 -- @myVar1을 출력해보세요.
 SELECT @myVar1;
